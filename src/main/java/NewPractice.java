@@ -5,5 +5,6 @@ public class NewPractice {
 
             int bNum = 2;
             System.out.println(bNum);
+
     }
 }
