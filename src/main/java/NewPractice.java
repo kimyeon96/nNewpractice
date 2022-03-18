@@ -6,5 +6,8 @@ public class NewPractice {
             int bNum = 2;
             System.out.println(bNum);
 
+            System.out.println("강한친구 강한 육군");
+        System.out.println("강한친구 강한 육군");
+
     }
 }
