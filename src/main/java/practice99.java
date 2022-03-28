@@ -5,7 +5,7 @@ public class practice99 {
         System.out.println("안녕하세요?");
         System.out.println("Java입니다.");
         System.out.printf("100 \n");
-        System.out.printf("%d \n", 100);
+        System.out.printf("%d \n", 100); 
         System.out.printf("%d %d \n", 100, 200);
         System.out.printf("%d / %d = %f \n", 100, 200, 0.5);
 
