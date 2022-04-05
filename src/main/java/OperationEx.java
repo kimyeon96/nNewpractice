@@ -9,7 +9,6 @@ public class OperationEx {
 
         int num3 = 5;
         int num4 = 11;
-
         int result2 = num3 | num4;
         System.out.println(result2);
     }
