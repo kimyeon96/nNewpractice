@@ -11,11 +11,14 @@ public class javascannerandif {
             System.out.printf("A");
         else if (a >= 80)
             System.out.printf("B");
-        else if (a <= 70)
+        else if (a >= 70)
             System.out.printf("C");
-        else if (a < 60)
+        else if (a >= 60)
             System.out.printf("D");
-            else if (a >=60);
+            else if (a >=50);
+        else System.out.printf("F");
+
+        System.out.printf("학점입니다. \n");
         }
+
     }
-}
